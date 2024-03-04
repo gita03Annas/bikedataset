@@ -1,8 +1,8 @@
 # bikedataset
 
-# Bike Rentals - Final Project Data Analytics
+# Bike Rentals
 
-This is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset. In the notebook file, I attached the way I did the analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization..
+Final project "Belajar Analisis Data Dengan Python" course is to make analysis and create a dashboard from the bike sharing dataset. In the notebook file, I attached the way I did the analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization.
 
 ## 1. Project work cycle
 1. Data Wrangling: 
@@ -22,7 +22,7 @@ This is a final project from Dicoding in the "Belajar Analisis Data Dengan Pytho
 ## 2. Getting Started
 ### `notebook.ipynb`
 1. Download this project.
-2. Open your favorite IDE like Jupyter Notebook or Google Colaboratory (but in here I will use Google Colab).
+2. Open your favorite Google Colab.
 3. Create a New Notebook.
 4. Upload and select the file with .ipynb extension.
 5. Connect to hosted runtime.
