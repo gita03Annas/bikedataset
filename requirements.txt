@@ -1,4 +1,6 @@
-pandas
-matplotlib
-seaborn
 streamlit
+pandas
+numpy
+scipy
+matplotlib
+plotly==5.9.0
